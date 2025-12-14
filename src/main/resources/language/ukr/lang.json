@@ -1082,7 +1082,7 @@
   "nukkit.resources.zip.not-found": "Файл \"{%0}\" не знайдено",
   "nukkit.server.defaultGameMode": "Режим гри за замовчуванням: {%0}",
   "nukkit.server.info": "Цей сервер використовує {%0} версії {%1} (API {%2})",
-  "nukkit.server.info.extended": "This server is running {%0} {%1} implementing API version {%2} for Minecraft: BE {%3} (protocol version {%4})",
+  "nukkit.server.info.extended": "This server is running {%0} {%1} implementing API version {%2} for Minecraft: BE {%3} (protocol version {%4} )",
   "nukkit.server.license": "PowerNukkitX поширюється під ліцензією LGPL",
   "nukkit.server.networkError": "[Мережа] Інтерфейс {%0} зупинено по причині {%1}",
   "nukkit.server.networkStart": "Відкриваємо сервер на {%0}:{%1}",
