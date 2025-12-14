@@ -1988,16 +1988,8 @@ public class Server {
         }
     }
 
-
-    // endregion
-
-    // region constants - 常量
-
-    /**
-     * @return 服务器名称<br>The name of server
-     */
     public String getName() {
-        return "PowerNukkitX";
+        return "DephtsCore";
     }
 
     public String getNukkitVersion() {
